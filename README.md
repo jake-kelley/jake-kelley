@@ -12,7 +12,7 @@
 
 [PDF](https://jake-kelley.github.io/resume/jake-kelley-resume.pdf) · [HTML](https://jake-kelley.github.io/resume/resume.html)
 
-## Ventures & Projects
+## What I'm Building
 
 *Things I build and use.*
 
