@@ -4,7 +4,7 @@
 
 ## 📧 Contact
 
-- Email: [jake.kelley@pm.me](mailto:jake.kelley@pm.me)
+- Email: [jake@jkelley.io](mailto:jake@jkelley.io)
 - LinkedIn: [jakekelley1](https://www.linkedin.com/in/jakekelley1/)
 - GitHub: [jake-kelley](https://github.com/jake-kelley)
 
